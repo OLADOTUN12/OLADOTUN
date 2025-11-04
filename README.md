@@ -72,7 +72,7 @@ Adversary emulation, SOC alert testing, and detection engineering.
 ---
 
 ## Certifications & Training
-
+- [Open Cisco Cybersecurity Certificate](./Coursera_certificate.pdf)
 
 - **TryHackMe: SOC Level 1** *(in progress)*  
 - **Google Cybersecurity Professional Certificate** *(ongoing)*  
