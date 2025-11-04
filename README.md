@@ -72,7 +72,6 @@ Adversary emulation, SOC alert testing, and detection engineering.
 ---
 
 ## Certifications & Training
-- [![Cisco Cybersecurity Certificate](https://img.shields.io/badge/Cisco-Cybersecurity-blue?logo=cisco&logoColor=white)](./certificates/Coursera_certificate.pdf)
 
 
 - **TryHackMe: SOC Level 1** *(in progress)*  
