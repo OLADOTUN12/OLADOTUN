@@ -1,4 +1,4 @@
-# 🛡️ Cybersecurity Portfolio — Oladotun
+# Cybersecurity Portfolio — Oladotun
 
 Welcome to my cybersecurity portfolio!  
 This repository documents my **hands-on SOC lab projects**, **SIEM configurations**, and **security monitoring experiments** using open-source tools like **Wazuh**, **Suricata**, and **Kali Linux**.  
@@ -7,7 +7,7 @@ It serves as a collection of my practical learning journey toward mastering **th
 
 ---
 
-## 👨‍💻 About Me
+## About Me
 I’m a cybersecurity enthusiast passionate about **defensive security**, **SIEM engineering**, and **blue team operations**.  
 I build and manage **virtual SOC environments** that simulate real-world monitoring using **Wazuh, Suricata, and Windows agents**.
 
@@ -19,7 +19,7 @@ To become proficient in **SOC analysis, incident response, and security automati
 
 ---
 
-## 🧰 Skills / Tools & Associated project
+## Skills / Tools & Associated project
 
 | **skill**                        | Tools                                                         | Associated project
 |----------------------------------|---------------------------------------------------------------|----------------------------------|
@@ -32,57 +32,16 @@ To become proficient in **SOC analysis, incident response, and security automati
 
 ---
 
-## 🧩 Featured Projects
-
-### 🔹 [Wazuh + Suricata Integration Lab](https://github.com/yourusername/wazuh-suricata-lab)
-**Goal:** Combine Wazuh and Suricata to detect and visualize network threats.  
-**Setup Includes:**
-- Wazuh Manager 4.13 (OVA Appliance)
-- Suricata on Kali Linux (EVE JSON enabled)
-- Custom Wazuh decoders and rules for Suricata alerts
-- GeoIP and AbuseIPDB threat enrichment in Kibana
-
-**Skills Demonstrated:**  
-SIEM configuration, log ingestion, rule tuning, network defense.
-
----
-
-### 🔹 [Windows Endpoint Monitoring with Wazuh Agent](https://github.com/yourusername/wazuh-windows-agent)
-**Goal:** Monitor Windows system events for suspicious activity.  
-**Setup Includes:**
-- Wazuh agent installed on Windows 10/11
-- Sysmon integration for detailed event capture
-- Custom Wazuh rules to detect PowerShell abuse and privilege escalation
-- Event correlation in Wazuh Dashboard
-
-**Skills Demonstrated:**  
-Windows event analysis, Sysmon configuration, rule customization.
-
----
-
-### 🔹 [Kali Linux Threat Simulation Lab](https://github.com/yourusername/kali-threat-lab)
-**Goal:** Generate test attacks to validate Wazuh + Suricata detection accuracy.  
-**Tools Used:** Metasploit, Nmap, Hydra, Nikto, and custom Bash scripts.  
-**Outcome:** 
-Validated alert generation for port scans, brute-force, and web exploitation attempts.
-
-**Skills Demonstrated:**  
-Adversary emulation, SOC alert testing, and detection engineering.
-
----
-
-## Certifications & Training
-- [Open Cisco Cybersecurity Certificate](./Coursera_certificate.pdf)
-
-- **TryHackMe: SOC Level 1** *(in progress)*  
-- **Google Cybersecurity Professional Certificate** *(ongoing)*  
-- **CompTIA Security+ (planned)**  
-- **Wazuh Advanced Rule Customization Lab** *(self-paced)*  
+## Certifications
+[![Cisco Logo](https://upload.wikimedia.org/wikipedia/commons/6/64/Cisco_logo.svg)](https://github.com/user-attachments/assets/c4f7db3b-3f83-4fbe-b83d-fbaf3c7661c7) 
 
 ---
 
 ## Future Projects
+- Wazuh + Suricata Integration Lab
+- Windows Endpoint Monitoring with Wazuh Agent
 - Active Directory domain controller integration with Wazuh  
+- Kali Linux Threat Simulation Lab
 - Automating alert triage with Python scripts  
 - Creating MITRE ATT&CK–aligned dashboards  
 - Implementing honeypot logs into Wazuh for threat hunting  
