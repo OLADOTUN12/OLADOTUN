@@ -52,3 +52,6 @@ To become proficient in **SOC analysis, incident response, and security automati
 - Automating alert triage with Python scripts  
 - Creating MITRE ATT&CK–aligned dashboards  
 - Implementing honeypot logs into Wazuh for threat hunting  
+
+## Contact
+- Email: oladotunjoh@gmail.com
