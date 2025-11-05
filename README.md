@@ -1,4 +1,8 @@
 # Cybersecurity Portfolio — Oladotun
+## Connect with Me
+[![Connect on LinkedIn](https://img.shields.io/badge/LinkedIn-Oladotun%20Adewumi-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/oladotun-adewumi-6a8009357)
+
+
 
 Welcome to my cybersecurity portfolio!  
 This repository documents my **hands-on SOC lab projects**, **SIEM configurations**, and **security monitoring experiments** using open-source tools like **Wazuh**, **Suricata**, and **Kali Linux**.  
