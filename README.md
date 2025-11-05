@@ -34,6 +34,9 @@ To become proficient in **SOC analysis, incident response, and security automati
 
 ## Certifications
 [![Cisco Logo](https://upload.wikimedia.org/wikipedia/commons/6/64/Cisco_logo.svg)](https://github.com/user-attachments/assets/c4f7db3b-3f83-4fbe-b83d-fbaf3c7661c7) 
+<a href="https://github.com/user-attachments/assets/65d857b2-22f7-4520-8042-b5d1b14cbbfd" target="_blank">
+  <img src="./GOMYCODE.jpg" alt="GOMYCODE" width="120">
+</a>
 
 ---
 
