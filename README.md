@@ -28,7 +28,8 @@ To become proficient in **SOC analysis, incident response, and security automati
 | **skill**                        | Tools                                                         | Associated project
 |----------------------------------|---------------------------------------------------------------|----------------------------------|
 | **SIEM implementation and log Analysis**            | Wazuh (Manager & Agent), Elasticsearch, Kibana |  https://github.com/OLADOTUN12/wazuh-siem-setup/blob/main/README.md            |
-| **Network Security**             | Suricata, Wazuh, splunk                  |               |
+| **Network Security**             | Suricata, Wazuh, splunk                  |                    |      
+
 | **Operating Systems**            | Kali Linux, Ubuntu Server, Windows 10/11 |                    |
 | **Incident Response**            | Sysmon, OSINT, YARA, Sigma Rules |                            |
 | **Automation & Scripting**       | Bash, Python, PowerShell |                                    |
